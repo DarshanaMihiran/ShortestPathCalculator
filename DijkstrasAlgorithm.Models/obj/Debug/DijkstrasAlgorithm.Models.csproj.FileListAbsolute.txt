@@ -4,3 +4,9 @@ D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgori
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.csproj.CoreCompileInputs.cache
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.dll
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\bin\Debug\DijkstrasAlgorithm.Models.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\bin\Debug\DijkstrasAlgorithm.Models.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.csproj.AssemblyReference.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.csproj.CoreCompileInputs.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Models\obj\Debug\DijkstrasAlgorithm.Models.pdb

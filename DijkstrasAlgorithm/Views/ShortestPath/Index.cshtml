@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Shortest Path Calculator";
+}
+
+<div class="container">
+    <div class="row justify-content-start">
+        <div class="col-md-6">
+            <form id="shortestPathForm">
+                <div class="form-group">
+                    <label for="fromNode" class="form-label">From Node:</label>
+                    <input type="text" id="fromNode" name="fromNode" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="toNode" class="form-label">To Node:</label>
+                    <input type="text" id="toNode" name="toNode" class="form-control" required>
+                </div>
+                <button type="button" class="btn btn-primary calculate-button" onclick="calculateShortestPath()">Calculate</button>
+            </form>
+        </div>
+    </div>
+
+    <div id="result" class="row mt-4" style="display:none;">
+        <div class="col-md-6">
+            <h3>Shortest Path Result</h3>
+            <table class="table">
+                <tbody id="resultBody">
+                    <tr id="traversedNodesRow">
+                        <td>Traversed Nodes:</td>
+                        <td id="traversedNodesData"></td>
+                    </tr>
+                    <tr id="totalDistanceRow">
+                        <td>Total Distance:</td>
+                        <td id="totalDistanceData"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        function calculateShortestPath() {
+            var fromNode = $("#fromNode").val();
+            var toNode = $("#toNode").val();
+
+            $.post("/ShortestPath/CalculateShortestPath", { fromNodeName: fromNode, toNodeName: toNode }, function (data) {
+                if (data.NodeNames && data.NodeNames.length > 0) {
+                    var traversedNodes = data.NodeNames.join(", ");
+                    $("#traversedNodesData").text(traversedNodes);
+                    $("#totalDistanceData").text(data.Distance);
+                    $("#result").show();
+                } else {
+                    $("#traversedNodesData").text("No path found between the given nodes.");
+                    $("#totalDistanceData").text("");
+                }
+            }).fail(function () {
+                $("#traversedNodesData").text("Error occurred while calculating the shortest path.");
+                $("#totalDistanceData").text("");
+            });
+        }
+    </script>
+}
