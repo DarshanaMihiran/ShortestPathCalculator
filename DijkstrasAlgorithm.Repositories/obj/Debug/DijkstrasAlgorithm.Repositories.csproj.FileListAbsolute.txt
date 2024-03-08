@@ -8,3 +8,13 @@ D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgori
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.csproj.CopyComplete
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.dll
 D:\Career\Interviews\Practical Tests\Aplyfine\DijkstrasAlgorithm\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\bin\Debug\DijkstrasAlgorithm.Repositories.dll.config
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\bin\Debug\DijkstrasAlgorithm.Repositories.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\bin\Debug\DijkstrasAlgorithm.Repositories.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\bin\Debug\DijkstrasAlgorithm.Models.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\bin\Debug\DijkstrasAlgorithm.Models.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.csproj.AssemblyReference.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.csproj.CoreCompileInputs.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.csproj.CopyComplete
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Repositories\obj\Debug\DijkstrasAlgorithm.Repositories.pdb

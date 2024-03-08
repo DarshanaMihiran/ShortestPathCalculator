@@ -245,6 +245,10 @@
       <Project>{2311295a-d165-4417-a185-55d9b427beec}</Project>
       <Name>DijkstrasAlgorithm.Repositories</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DijkstrasAlgorithm.Services\DijkstrasAlgorithm.Services.csproj">
+      <Project>{630b6ce4-2bfa-4f87-be68-7e3153a3eacd}</Project>
+      <Name>DijkstrasAlgorithm.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
