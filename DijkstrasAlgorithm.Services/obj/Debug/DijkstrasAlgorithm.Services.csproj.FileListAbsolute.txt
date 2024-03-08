@@ -1,0 +1,12 @@
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Services.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Services.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Models.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Models.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\obj\Debug\DijkstrasAlgorithm.Services.csproj.AssemblyReference.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\obj\Debug\DijkstrasAlgorithm.Services.csproj.CoreCompileInputs.cache
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\obj\Debug\DijkstrasAlgorithm.Services.csproj.CopyComplete
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\obj\Debug\DijkstrasAlgorithm.Services.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\obj\Debug\DijkstrasAlgorithm.Services.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Repositories.dll
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Repositories.pdb
+D:\Career\Interviews\Practical Tests\Aplyfine\ShortestPathCalculator\ShortestPathCalculator\DijkstrasAlgorithm.Services\bin\Debug\DijkstrasAlgorithm.Repositories.dll.config
