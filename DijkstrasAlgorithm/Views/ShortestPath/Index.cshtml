@@ -36,6 +36,7 @@
             </table>
         </div>
     </div>
+    <p id="errorText" style="display:none;"></p>
 </div>
 
 @section scripts {
@@ -50,13 +51,16 @@
                     $("#traversedNodesData").text(traversedNodes);
                     $("#totalDistanceData").text(data.Distance);
                     $("#result").show();
+                    $("#errorText").hide();
                 } else {
-                    $("#traversedNodesData").text("No path found between the given nodes.");
-                    $("#totalDistanceData").text("");
+                    $("#errorText").text("No path found between the given nodes.");
+                    $("#errorText").show();
+                    $("#result").hide();
                 }
             }).fail(function () {
-                $("#traversedNodesData").text("Error occurred while calculating the shortest path.");
-                $("#totalDistanceData").text("");
+                $("#errorText").text("Error occurred while calculating the shortest path.");
+                $("#errorText").show();
+                $("#result").hide();
             });
         }
     </script>

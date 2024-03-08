@@ -23,7 +23,7 @@ namespace DijkstrasAlgorithm.Controllers
         [HttpPost]
         public ActionResult CalculateShortestPath(string fromNodeName, string toNodeName)
         {
-            ShortestPathData shortestPathData = _calculatorService.FindShortestPath(fromNodeName, toNodeName);
+            ShortestPathData shortestPathData = _calculatorService.FindShortestPath(fromNodeName.ToUpper(), toNodeName.ToUpper());
             return Json(shortestPathData);
         }
     }
